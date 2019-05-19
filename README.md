@@ -6,4 +6,7 @@
      align="right"/>
 
 # RESTFul Services
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Let's get to know more about the power of the REpresentational State Transfer (REST) and its usage in web application and micro services.
