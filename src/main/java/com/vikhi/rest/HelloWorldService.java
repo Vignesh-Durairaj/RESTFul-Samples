@@ -11,11 +11,9 @@ public class HelloWorldService {
 	@GET
 	@Path("/{param}")
 	public Response getMsg(@PathParam("param") String msg) {
- 
 		String output = "Services say : " + msg;
- 
 		return Response.status(200).entity(output).build();
- 
+
 	}
  
 }
